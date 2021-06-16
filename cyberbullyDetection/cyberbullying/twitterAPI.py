@@ -3,10 +3,10 @@ import pandas as pd
 pd.set_option('display.max_colwidth', 100)
 
 # Twitter API Credentials
-CONSUMER_KEY="vYn3bR2vIK7I7Eurfby626fuF"
-CONSUMER_SECRET="YBVk9c5uh3OlFWbOP6CnMo2LscYQrTs6RJZAwprQFbE1bGEge4"
-ACCESS_TOKEN="1338496701573652481-pC7XBeSrAUvv3KQzTDYbhjB6WtppQf"
-ACCESS_TOKEN_SECRET="Agqmas6W0EFL2Z8dQF9Tk57ko27igfygVv7thttPpxmzg"
+CONSUMER_KEY="xxxxxxxxxxxxxxxxxxxxxxxxx"
+CONSUMER_SECRET="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+ACCESS_TOKEN="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+ACCESS_TOKEN_SECRET="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Authorize Twitter API
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
